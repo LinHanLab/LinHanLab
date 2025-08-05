@@ -3,7 +3,7 @@
 Indie developer on a mission to build profitable products that solve real problems.
 
 - 🚀 I'm working on making my first profitable products
-- 💬 Ask me about web development, AI, and game development
+- 💬 Ask me about web development, game development, and AI
 - ⚡ Fun fact:
   - Vibe coding helps bring back motivation
   - I love Neovim
