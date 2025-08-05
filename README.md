@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey! I'm LinHan 👋
 
-<!--
-**LinHanLab/LinHanLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie developer on a mission to build profitable products that solve real problems.
 
-Here are some ideas to get you started:
+- 🚀 I'm working on making my first profitable products
+- 💬 Ask me about web development, AI, and game development
+- ⚡ Fun fact:
+  - Vibe coding helps bring back motivation
+  - I love Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Products you should try
+
+- [shortnews.dev](https://shortnews.dev): A 10-minute daily briefing for developers - curated from Hacker News, Github Trending and more, delivered in **your language** without the reading stress.
